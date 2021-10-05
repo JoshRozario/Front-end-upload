@@ -1,0 +1,495 @@
+{
+    "fileId": "063e7d0f-92f0-4b8d-a778-0759ff1f078f",
+    "status": "FINALISED",
+    "results": {
+      "timestamp": "2021-10-03T03:51:39.899Z",       
+      "fields": [
+        {
+          "name": "generic.structure",
+          "value": {
+            "entities": {
+              "field.label.head:due:0:7": {
+                "type": "field.label",
+                "norm": "due_date",
+                "text": "Due Date",
+                "tokens": [
+                  "Due",
+                  "Date"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    7,
+                    8
+                  ],
+                  "tokenIds": [
+                    7,
+                    8
+                  ],
+                  "topLeft": {
+                    "x": 0.1192156862745098,
+                    "y": 0.17393939393939395
+                  },
+                  "bottomRight": {
+                    "x": 0.18862745098039216,
+                    "y": 0.18515151515151515
+                  }
+                }
+              },
+              "field.label.head:reference:0:2": {
+                "type": "field.label",
+                "norm": "reference_#",
+                "text": "Reference #",
+                "tokens": [
+                  "Reference",
+                  "#"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    2,
+                    3
+                  ],
+                  "tokenIds": [
+                    2,
+                    3
+                  ],
+                  "topLeft": {
+                    "x": 0.1192156862745098,
+                    "y": 0.13575757575757577
+                  },
+                  "bottomRight": {
+                    "x": 0.21215686274509804,
+                    "y": 0.14757575757575758
+                  }
+                }
+              },
+              "field.label.head:account:0:23": {
+                "type": "field.label",
+                "norm": "account_number",
+                "text": "Account Number",
+                "tokens": [
+                  "Account",
+                  "Number"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    23,
+                    24
+                  ],
+                  "tokenIds": [
+                    23,
+                    24
+                  ],
+                  "topLeft": {
+                    "x": 0.11764705882352941,
+                    "y": 0.25
+                  },
+                  "bottomRight": {
+                    "x": 0.24980392156862746,
+                    "y": 0.26242424242424245
+                  }
+                }
+              },
+              "field.value.head:results:0:0": {
+                "type": "field.value",
+                "norm": "results",
+                "text": "Results",
+                "tokens": [
+                  "Results"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    0
+                  ],
+                  "tokenIds": [
+                    0
+                  ],
+                  "topLeft": {
+                    "x": 0.45803921568627454,
+                    "y": 0.09272727272727273
+                  },
+                  "bottomRight": {
+                    "x": 0.5313725490196078,
+                    "y": 0.1087878787878788
+                  }
+                }
+              },
+              "field.label.head:amount:0:5": {
+                "type": "field.label",
+                "norm": "amount",
+                "text": "Amount",
+                "tokens": [
+                  "Amount"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    5
+                  ],
+                  "tokenIds": [
+                    5
+                  ],
+                  "topLeft": {
+                    "x": 0.11764705882352941,
+                    "y": 0.15515151515151515
+                  },
+                  "bottomRight": {
+                    "x": 0.17921568627450982,
+                    "y": 0.16696969696969696
+                  }
+                }
+              },
+              "field.value.head:11662-2:0:10": {
+                "type": "field.value",
+                "norm": "11662-2",
+                "text": "11662-2",
+                "tokens": [
+                  "11662-2"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    10
+                  ],
+                  "tokenIds": [
+                    10
+                  ],
+                  "topLeft": {
+                    "x": 0.23568627450980392,
+                    "y": 0.13696969696969696
+                  },
+                  "bottomRight": {
+                    "x": 0.3,
+                    "y": 0.1484848484848485
+                  }
+                }
+              },
+              "field.value.head:a$:0:12": {
+                "type": "field.value",
+                "norm": "a$",
+                "text": "A$",
+                "tokens": [
+                  "A$"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    12
+                  ],
+                  "tokenIds": [
+                    12
+                  ],
+                  "topLeft": {
+                    "x": 0.23529411764705882,
+                    "y": 0.15454545454545454
+                  },
+                  "bottomRight": {
+                    "x": 0.25529411764705884,
+                    "y": 0.16696969696969696
+                  }
+                }
+              },
+              "field.value.head:109.88:0:13": {
+                "type": "field.value",
+                "norm": "109.88",
+                "text": "109.88",
+                "tokens": [
+                  "109.88"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    13
+                  ],
+                  "tokenIds": [
+                    13
+                  ],
+                  "topLeft": {
+                    "x": 0.2627450980392157,
+                    "y": 0.15454545454545454
+                  },
+                  "bottomRight": {
+                    "x": 0.31411764705882356,
+                    "y": 0.16696969696969696
+                  }
+                }
+              },
+              "field.value.head:05 june 2019:0:15": {
+                "type": "field.value",
+                "norm": "05 june 2019",
+                "text": "05 June 2019",
+                "tokens": [
+                  "05 June 2019"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    15
+                  ],
+                  "tokenIds": [
+                    15
+                  ],
+                  "topLeft": {
+                    "x": 0.23607843137254902,
+                    "y": 0.17393939393939395
+                  },
+                  "bottomRight": {
+                    "x": 0.3415686274509804,
+                    "y": 0.18575757575757576
+                  }
+                }
+              },
+              "field.label.head:bank:0:17": {
+                "type": "field.label",
+                "norm": "bank",
+                "text": "Bank",
+                "tokens": [
+                  "Bank"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    17
+                  ],
+                  "tokenIds": [
+                    17
+                  ],
+                  "topLeft": {
+                    "x": 0.1188235294117647,
+                    "y": 0.21242424242424243
+                  },
+                  "bottomRight": {
+                    "x": 0.1568627450980392,
+                    "y": 0.22424242424242424
+                  }
+                }
+              },
+              "field.label.head:bsb:0:20": {
+                "type": "field.label",
+                "norm": "bsb",
+                "text": "BSB",
+                "tokens": [
+                  "BSB"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    20
+                  ],
+                  "tokenIds": [
+                    20
+                  ],
+                  "topLeft": {
+                    "x": 0.1188235294117647,
+                    "y": 0.2315151515151515
+                  },
+                  "bottomRight": {
+                    "x": 0.14862745098039215,
+                    "y": 0.24272727272727274
+                  }
+                }
+              },
+              "field.label.head:abn:0:27": {
+                "type": "field.label",
+                "norm": "abn",
+                "text": "ABN",
+                "tokens": [
+                  "ABN"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    27
+                  ],
+                  "tokenIds": [
+                    27
+                  ],
+                  "topLeft": {
+                    "x": 0.1192156862745098,
+                    "y": 0.2703030303030303
+                  },
+                  "bottomRight": {
+                    "x": 0.15411764705882353,
+                    "y": 0.2821212121212121
+                  }
+                }
+              },
+              "field.value.head:620-119:0:30": {
+                "type": "field.value",
+                "norm": "620-119",
+                "text": "620-119",
+                "tokens": [
+                  "620-119"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    30
+                  ],
+                  "tokenIds": [
+                    30
+                  ],
+                  "topLeft": {
+                    "x": 0.2952941176470588,
+                    "y": 0.2309090909090909
+                  },
+                  "bottomRight": {
+                    "x": 0.35764705882352943,
+                    "y": 0.24303030303030304
+                  }
+                }
+              },
+              "field.value.head:1955 0021:0:32": {
+                "type": "field.value",
+                "norm": "1955 0021",
+                "text": "1955 0021",
+                "tokens": [
+                  "1955 0021"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    32
+                  ],
+                  "tokenIds": [
+                    32
+                  ],
+                  "topLeft": {
+                    "x": 0.29568627450980395,
+                    "y": 0.2503030303030303
+                  },
+                  "bottomRight": {
+                    "x": 0.37411764705882355,
+                    "y": 0.26272727272727275
+                  }
+                }
+              },
+              "field.value.head:48 123 123 124:0:34": {
+                "type": "field.value",
+                "norm": "48 123 123 124",
+                "text": "48 123 123 124",
+                "tokens": [
+                  "48 123 123 124"
+                ],
+                "page_idx": 0,
+                "bounds": {
+                  "pageNum": 1,
+                  "pageTokenIds": [
+                    34
+                  ],
+                  "tokenIds": [
+                    34
+                  ],
+                  "topLeft": {
+                    "x": 0.29568627450980395,
+                    "y": 0.2693939393939394
+                  },
+                  "bottomRight": {
+                    "x": 0.4180392156862745,
+                    "y": 0.2827272727272727
+                  }
+                }
+              }
+            },
+            "relations": [
+              {
+                "type": "field",
+                "parent_id": "field.label.head:due:0:7",
+                "child_id": "field.value.head:05 june 2019:0:15",
+                "score": 0.9821709742400275
+              },
+              {
+                "type": "field",
+                "parent_id": "field.label.head:reference:0:2",
+                "child_id": "field.value.head:11662-2:0:10",
+                "score": 0.968826679051788
+              },
+              {
+                "type": "field",
+                "parent_id": "field.label.head:account:0:23",
+                "child_id": "field.value.head:1955 0021:0:32",
+                "score": 0.9276431537667948
+              },
+              {
+                "type": "field",
+                "parent_id": "field.label.head:amount:0:5",
+                "child_id": "field.value.head:a$:0:12",
+                "score": 0.9850649052059866
+              },
+              {
+                "type": "field",
+                "parent_id": "field.label.head:bsb:0:20",
+                "child_id": "field.value.head:620-119:0:30",
+                "score": 0.9834353510308761
+              },
+              {
+                "type": "field",
+                "parent_id": "field.label.head:abn:0:27",
+                "child_id": "field.value.head:48 123 123 124:0:34",
+                "score": 0.9697694833505704
+              }
+            ],
+            "fields": [
+              {
+                "field_key": null,
+                "label": "field.label.head:due:0:7",
+                "value": "field.value.head:05 june 2019:0:15",
+                "score": 0.9821709742400275
+              },
+              {
+                "field_key": null,
+                "label": "field.label.head:reference:0:2",
+                "value": "field.value.head:11662-2:0:10",
+                "score": 0.968826679051788
+              },
+              {
+                "field_key": null,
+                "label": "field.label.head:account:0:23",
+                "value": "field.value.head:1955 0021:0:32",
+                "score": 0.9276431537667948
+              },
+              {
+                "field_key": null,
+                "label": "field.label.head:amount:0:5",
+                "value": "field.value.head:a$:0:12",
+                "score": 0.9850649052059866
+              },
+              {
+                "field_key": null,
+                "label": "field.label.head:bsb:0:20",
+                "value": "field.value.head:620-119:0:30",
+                "score": 0.9834353510308761
+              },
+              {
+                "field_key": null,
+                "label": "field.label.head:abn:0:27",
+                "value": "field.value.head:48 123 123 124:0:34",
+                "score": 0.9697694833505704
+              }
+            ],
+            "tables": []
+          },
+          "confidence": 1,
+          "boundingBox": null
+        }
+      ],
+      "numPages": "1"
+    }
+  }
