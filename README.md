@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Front-end implementation that connects to Sypht's API to analyse invoices and then confirms wheter the abn in the invoice is valid
 
 ## Available Scripts
 
